@@ -1,3 +1,3 @@
 # my_html_work
-Front End Developer <br>
+Front End Developer: <br>
 <b> Shamsher Sinhg <b/>
